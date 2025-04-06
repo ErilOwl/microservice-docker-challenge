@@ -1,0 +1,5 @@
+#Ignorar arquivos de log
+*.log
+
+#Ignorar os arquivos como (senha, configs)
+.env
